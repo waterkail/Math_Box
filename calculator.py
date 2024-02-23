@@ -12,3 +12,6 @@ def divide_1(a, b):
 
 def remain(a, b):
   return a%b
+
+def square(a):
+  return a*a
