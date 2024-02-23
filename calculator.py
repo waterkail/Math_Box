@@ -7,8 +7,8 @@ def subtract(a, b):
 def multiply(a, b):
   return a*b
 
-def divive(a, b):
+def divide(a, b):
   return a/b
 
-def remaining(a, b):
+def remain(a, b):
   return a%b
