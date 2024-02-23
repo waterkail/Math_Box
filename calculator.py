@@ -10,5 +10,5 @@ def multiply(a, b):
 def divive(a, b):
   return a/b
 
-def remain(a, b):
+def remaining(a, b):
   return a%b
